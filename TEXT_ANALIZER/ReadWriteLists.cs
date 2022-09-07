@@ -31,7 +31,7 @@ namespace TEXT_ANALIZER
                 {
                     while ((line = await reader.ReadLineAsync()) != null)
                     {
-                        string[] words = ReadWriteLists.RemoveSpecialCharacters(line).Split(' ');
+                        string[] words = ReadWriteLists.RemoveSpecialCharacters(line.Trim()).Split(' ');
                         foreach (var item_line in words)
                         {
                             crutch = false;
