@@ -1,0 +1,15 @@
+
+Сотрудника с максимальной заработной платой.
+1. SELECT name, MAX(salary) FROM EMPLOYEE
+
+
+Отдел, с самой высокой заработной платой между сотрудниками. 
+2. SELECT DEPARTMENT_NAME, MAX(MAX_SALARY) FROM (SELECT DEPARTMENT.Name as DEPARTMENT_NAME, MAX(EMPLOYEE.SLARY) AS MAX_SALARY
+FROM DEPARTMENT 
+JOIN EMPLOYEE ON DEPARTMENT.id = EMPLOYEE.DEPARTMENT_id GROUP by DEPARTMENT.Name)
+
+Отдел, с максимальной суммарной зарплатой сотрудников. 
+3. SELECT Department, MAX(SalarySUM) FROM (SELECT DEPARTMENT.Name as Department, SUM(EMPLOYEE.salary) as SalarySUM FROM DEPARTMENT JOIN EMPLOYEE ON DEPARTMENT.id = EMPLOYEE.DEPARTMENT_id GROUP by DEPARTMENT.Name)
+
+Сотрудника, чье имя начинается на «Р» и заканчивается на «н».
+4. SELECT EMPLOYEE.NAME FROM EMPLOYEE WHERE (SELECT instr(EMPLOYEE.name, 'Р'))=1 and (SELECT instr(EMPLOYEE.name, 'н')) = (SELECT length(EMPLOYEE.name))
