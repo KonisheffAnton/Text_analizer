@@ -1,0 +1,42 @@
+C:\Users\Hi Anton\source\repos\TEXT_ANALIZER\bin\Debug\netcoreapp3.1\TEXT_ANALIZER.exe
+C:\Users\Hi Anton\source\repos\TEXT_ANALIZER\bin\Debug\netcoreapp3.1\TEXT_ANALIZER.deps.json
+C:\Users\Hi Anton\source\repos\TEXT_ANALIZER\bin\Debug\netcoreapp3.1\TEXT_ANALIZER.runtimeconfig.json
+C:\Users\Hi Anton\source\repos\TEXT_ANALIZER\bin\Debug\netcoreapp3.1\TEXT_ANALIZER.runtimeconfig.dev.json
+C:\Users\Hi Anton\source\repos\TEXT_ANALIZER\bin\Debug\netcoreapp3.1\TEXT_ANALIZER.dll
+C:\Users\Hi Anton\source\repos\TEXT_ANALIZER\bin\Debug\netcoreapp3.1\TEXT_ANALIZER.pdb
+C:\Users\Hi Anton\source\repos\TEXT_ANALIZER\obj\Debug\netcoreapp3.1\TEXT_ANALIZER.csproj.AssemblyReference.cache
+C:\Users\Hi Anton\source\repos\TEXT_ANALIZER\obj\Debug\netcoreapp3.1\TEXT_ANALIZER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hi Anton\source\repos\TEXT_ANALIZER\obj\Debug\netcoreapp3.1\TEXT_ANALIZER.AssemblyInfoInputs.cache
+C:\Users\Hi Anton\source\repos\TEXT_ANALIZER\obj\Debug\netcoreapp3.1\TEXT_ANALIZER.AssemblyInfo.cs
+C:\Users\Hi Anton\source\repos\TEXT_ANALIZER\obj\Debug\netcoreapp3.1\TEXT_ANALIZER.csproj.CoreCompileInputs.cache
+C:\Users\Hi Anton\source\repos\TEXT_ANALIZER\obj\Debug\netcoreapp3.1\TEXT_ANALIZER.dll
+C:\Users\Hi Anton\source\repos\TEXT_ANALIZER\obj\Debug\netcoreapp3.1\TEXT_ANALIZER.pdb
+C:\Users\Hi Anton\source\repos\TEXT_ANALIZER\obj\Debug\netcoreapp3.1\TEXT_ANALIZER.genruntimeconfig.cache
+C:\Users\konyshefanton\OneDrive - Yandex\Рабочий стол\TEXT_ANALIZER\bin\Debug\netcoreapp3.1\TEXT_ANALIZER.exe
+C:\Users\konyshefanton\OneDrive - Yandex\Рабочий стол\TEXT_ANALIZER\bin\Debug\netcoreapp3.1\TEXT_ANALIZER.deps.json
+C:\Users\konyshefanton\OneDrive - Yandex\Рабочий стол\TEXT_ANALIZER\bin\Debug\netcoreapp3.1\TEXT_ANALIZER.runtimeconfig.json
+C:\Users\konyshefanton\OneDrive - Yandex\Рабочий стол\TEXT_ANALIZER\bin\Debug\netcoreapp3.1\TEXT_ANALIZER.runtimeconfig.dev.json
+C:\Users\konyshefanton\OneDrive - Yandex\Рабочий стол\TEXT_ANALIZER\bin\Debug\netcoreapp3.1\TEXT_ANALIZER.dll
+C:\Users\konyshefanton\OneDrive - Yandex\Рабочий стол\TEXT_ANALIZER\bin\Debug\netcoreapp3.1\TEXT_ANALIZER.pdb
+C:\Users\konyshefanton\OneDrive - Yandex\Рабочий стол\TEXT_ANALIZER\obj\Debug\netcoreapp3.1\TEXT_ANALIZER.csproj.AssemblyReference.cache
+C:\Users\konyshefanton\OneDrive - Yandex\Рабочий стол\TEXT_ANALIZER\obj\Debug\netcoreapp3.1\TEXT_ANALIZER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konyshefanton\OneDrive - Yandex\Рабочий стол\TEXT_ANALIZER\obj\Debug\netcoreapp3.1\TEXT_ANALIZER.AssemblyInfoInputs.cache
+C:\Users\konyshefanton\OneDrive - Yandex\Рабочий стол\TEXT_ANALIZER\obj\Debug\netcoreapp3.1\TEXT_ANALIZER.AssemblyInfo.cs
+C:\Users\konyshefanton\OneDrive - Yandex\Рабочий стол\TEXT_ANALIZER\obj\Debug\netcoreapp3.1\TEXT_ANALIZER.csproj.CoreCompileInputs.cache
+C:\Users\konyshefanton\OneDrive - Yandex\Рабочий стол\TEXT_ANALIZER\obj\Debug\netcoreapp3.1\TEXT_ANALIZER.dll
+C:\Users\konyshefanton\OneDrive - Yandex\Рабочий стол\TEXT_ANALIZER\obj\Debug\netcoreapp3.1\TEXT_ANALIZER.pdb
+C:\Users\konyshefanton\OneDrive - Yandex\Рабочий стол\TEXT_ANALIZER\obj\Debug\netcoreapp3.1\TEXT_ANALIZER.genruntimeconfig.cache
+C:\Users\Hi Anton\Downloads\TEXT_ANALIZER (3)\TEXT_ANALIZER\obj\Debug\netcoreapp3.1\TEXT_ANALIZER.csproj.AssemblyReference.cache
+C:\Users\Hi Anton\Downloads\TEXT_ANALIZER (3)\TEXT_ANALIZER\obj\Debug\netcoreapp3.1\TEXT_ANALIZER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hi Anton\Downloads\TEXT_ANALIZER (3)\TEXT_ANALIZER\obj\Debug\netcoreapp3.1\TEXT_ANALIZER.AssemblyInfoInputs.cache
+C:\Users\Hi Anton\Downloads\TEXT_ANALIZER (3)\TEXT_ANALIZER\obj\Debug\netcoreapp3.1\TEXT_ANALIZER.AssemblyInfo.cs
+C:\Users\Hi Anton\Downloads\TEXT_ANALIZER (3)\TEXT_ANALIZER\obj\Debug\netcoreapp3.1\TEXT_ANALIZER.csproj.CoreCompileInputs.cache
+C:\Users\Hi Anton\Downloads\TEXT_ANALIZER (3)\TEXT_ANALIZER\obj\Debug\netcoreapp3.1\TEXT_ANALIZER.dll
+C:\Users\Hi Anton\Downloads\TEXT_ANALIZER (3)\TEXT_ANALIZER\obj\Debug\netcoreapp3.1\TEXT_ANALIZER.pdb
+C:\Users\Hi Anton\Downloads\TEXT_ANALIZER (3)\TEXT_ANALIZER\bin\Debug\netcoreapp3.1\TEXT_ANALIZER.exe
+C:\Users\Hi Anton\Downloads\TEXT_ANALIZER (3)\TEXT_ANALIZER\bin\Debug\netcoreapp3.1\TEXT_ANALIZER.deps.json
+C:\Users\Hi Anton\Downloads\TEXT_ANALIZER (3)\TEXT_ANALIZER\bin\Debug\netcoreapp3.1\TEXT_ANALIZER.runtimeconfig.json
+C:\Users\Hi Anton\Downloads\TEXT_ANALIZER (3)\TEXT_ANALIZER\bin\Debug\netcoreapp3.1\TEXT_ANALIZER.runtimeconfig.dev.json
+C:\Users\Hi Anton\Downloads\TEXT_ANALIZER (3)\TEXT_ANALIZER\bin\Debug\netcoreapp3.1\TEXT_ANALIZER.dll
+C:\Users\Hi Anton\Downloads\TEXT_ANALIZER (3)\TEXT_ANALIZER\bin\Debug\netcoreapp3.1\TEXT_ANALIZER.pdb
+C:\Users\Hi Anton\Downloads\TEXT_ANALIZER (3)\TEXT_ANALIZER\obj\Debug\netcoreapp3.1\TEXT_ANALIZER.genruntimeconfig.cache
